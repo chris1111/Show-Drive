@@ -3,7 +3,7 @@
 
 Utility|Description
 :----|:----
-Show Drive|Status menue to showing all drive
+Show Drive|MacOS Status menue to showing all drive
 
 [Download ➤ Show Drive](https://github.com/chris1111/Show-Drive/raw/main/Show%20Drive.dmg.zip)
 

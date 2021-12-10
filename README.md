@@ -1,7 +1,7 @@
 # Show Drive
 
 
-Utility|Description|Credit
+MacOS Utility|Description|Credit
 :----|:----|:----
 Show Drive|MacOS Status menue to showing all drive|Apple
 

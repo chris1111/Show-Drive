@@ -1,9 +1,9 @@
 # Show Drive
 
 
-Utility|Description
-:----|:----
-Show Drive|MacOS Status menue to showing all drive
+Utility|Description|Credit
+:----|:----|:----
+Show Drive|MacOS Status menue to showing all drive|Apple
 
 [Download ➤ Show Drive](https://github.com/chris1111/Show-Drive/raw/main/Show%20Drive.dmg.zip)
 
